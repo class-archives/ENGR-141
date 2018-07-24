@@ -1,0 +1,79 @@
+MEMORANDUM:
+Date: 11.14.2015
+To: Mr. Robert Barker
+From: Team Number – 59
+Subject: REQUEST FOR ADDITIONAL INFORMATION, Phase 4
+
+Our team respectfully requests the management team provide responses to the following project related questions. Thank you in advance for 
+your assistance.
+
+Team 59
+
+RFAI – 4
+==========================================================================================================================================
+Team Member Names:
+1) Kathryn Atherton
+2) Ryan Hellyer
+3) Natalie Zimmermann
+------------------------------------------------------------------------------------------------------------------------------------------
+Team Recorder: Kathryn Atherton
+------------------------------------------------------------------------------------------------------------------------------------------
+Team Recorder email: katherto@purdue.edu
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 1:
+------------------------------------------------------------------------------------------------------------------------------------------
+Will bins be removed from the path once they have been correctly dropped off, or will the robot have to navigate around the bins each time 
+it passes a bin that has already been dropped off?
+
+
+Bins will not be removed from a drop-off area. You are allowed to place them anywhere in the circle defining that drop-off area.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 2:
+------------------------------------------------------------------------------------------------------------------------------------------
+Will the circles that define the drop off locations be the same color and/or pattern of the line that the robot must follow?
+
+
+No, the circles designating the drop-off locations are not the same color/pattern as the path line.  
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 3:
+------------------------------------------------------------------------------------------------------------------------------------------
+Will the line that the robot must follow be defined on the obstacles that the robot must traverse?
+
+
+When simulating the more rugged terrain, the objects placed in the path will include the appropriate line type, as is necessary.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 4: 
+------------------------------------------------------------------------------------------------------------------------------------------
+What is the maximum distance between line segments in the dashed line that the robot may follow?
+
+
+There are three path types:
+A solid black line having a nominal 1” width;
+A dotted black line consisting of solid 1” diameter circles where the circles are nominally spaced on 2” centers;
+A solid black line that is broken with a series of white segments of varying length. This path will appear as a solid black line that is nominally 1” wide with white breaks that are greater than or equal to 1/4 inch and less than or equal to 3 inches.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 5:
+------------------------------------------------------------------------------------------------------------------------------------------
+In regards to the team-created drop-off location identifier, what constraints are there for the creation of this mechanism, (besides there
+being no human input or no part of the mechanism attached to the track)?
+
+
+In designing an autonomous mechanism to tell the PMR that it has reached a bin drop-off location there are several restrictions the companies have imposed:
+For this demonstration, the device used must not permanently alter the actual course. That is, you may not for example: mark, color, glue, tear, tape (that results in or the course being damaged when removed), or otherwise permanently modify the course itself.  Remember other teams will be operating on the course after you and we do not want you to do something that would cause that team’s PMR to be misdirected.
+The device must be free standing and self-supported (i.e., you may not simply hold something up by hand). You are however, allowed to use hand pressure to fix something in place to simulate that it is permanently affixed to the ground.
+Once the device is positioned it may not be moved until after the PMR has passed. Two cautions:
+You are NOT allowed to continually adjust the position of the device as the PMR approaches a bin drop-off location. You must identify the location where the device will be positioned in advance of the approaching PMR.
+You are NOT allowed to place something directly on the path-line of an approaching PMR. Remember, the device cannot be moved until after the PMR has passed.
+Either the PMR itself or the autonomous mechanism must be smart enough to tell the PMR which bin drop-off location it has reached (i.e., if the only way your PMR knows it has reached a location to deliver a bin is because you personally intervened, than you have NOT designed an autonomous device).
+ 
+Please recall the order of the bin drop-off locations: the first location will be for bins containing organic materials, the second location will be for bins containing ceramic materials, and the third location will be for bins containing metallic materials. 
+

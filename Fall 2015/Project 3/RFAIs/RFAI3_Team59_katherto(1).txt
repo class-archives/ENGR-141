@@ -1,0 +1,65 @@
+MEMORANDUM:
+Date: 10.28.2015
+To: Mr. Robert Barker
+From: Team Number – 59
+Subject: REQUEST FOR ADDITIONAL INFORMATION, Phase 3
+
+Our team respectfully requests the management team provide responses to the following project related questions. Thank you in advance for 
+your assistance.
+
+Team 59
+
+RFAI – 3
+==========================================================================================================================================
+Team Member Names:
+1) Kathryn Atherton
+2) Ryan Hellyer
+3) Natalie Zimmermann
+------------------------------------------------------------------------------------------------------------------------------------------
+Team Recorder: Kathryn Atherton
+------------------------------------------------------------------------------------------------------------------------------------------
+Team Recorder email: katherto@purdue.edu
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 1:
+------------------------------------------------------------------------------------------------------------------------------------------
+What is the expected maximum obstacle height?
+
+
+Your prototype robot will predominantly need to navigate on a flat surface. However, to simulate a more rugged terrain, obstacles ranging in size from 1/8” x 1/8” (round or flat) to 3/4” x 4” may appear on the path. The first dimension is the height, the second dimension is the length (parallel to the path) and the width (perpendicular to the path) is infinite. Said obstacles may not be circumnavigated and must be traversed.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 2:
+------------------------------------------------------------------------------------------------------------------------------------------
+Is the robot allowed to move backwards while picking up and putting down the bins?
+
+
+When following the line, the PMR should always move around the closed-looped path clockwise.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 3:
+------------------------------------------------------------------------------------------------------------------------------------------
+What is the radius of the bin drop-off locations?
+
+
+A 12-inch diameter circle will define the bin drop-off area and will be centered on the path at the bin drop-off location.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 4: 
+------------------------------------------------------------------------------------------------------------------------------------------
+Other than being a circle, what characteristis differentiate the bin drop-off locations from the line?
+
+
+A 12-inch diameter circle will define the bin drop-off area and will be centered on the path at the bin drop-off location. Teams are allowed to create and position a mechanism or identifier to tell the PMR that it is near a drop-off location; however, this mechanism cannot be attached to the track and cannot receive any human input other than to hold it down in place.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 5:
+------------------------------------------------------------------------------------------------------------------------------------------
+Once all bins have been delivered, where should the robot's final position be?
+
+
+The task is considered complete after the PMR has appropriately dropped off the last bin for delivery. An end protocol/return to the initial starting location is not necessary.
+

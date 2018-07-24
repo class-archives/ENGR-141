@@ -1,0 +1,70 @@
+MEMORANDUM:
+Date: 09.19.2015
+To: Mr. Robert Barker
+From: Team Number – 59
+Subject: REQUEST FOR ADDITIONAL INFORMATION, Phase 1
+
+Our team respectfully requests the management team provide responses to the following project related questions. Thank you in advance for 
+your assistance.
+
+Team 59
+
+RFAI – 1
+==========================================================================================================================================
+Team Member Names:
+1) Kathryn Atherton
+2) Ryan Hellyer
+3) Natalie Zimmermann
+------------------------------------------------------------------------------------------------------------------------------------------
+Team Recorder: Kathryn Atherton
+------------------------------------------------------------------------------------------------------------------------------------------
+Team Recorder email: katherto@purdue.edu
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 1:
+------------------------------------------------------------------------------------------------------------------------------------------
+What are the dimensions of the bins utilized by the separator/shredder?
+
+
+The bin are rectangular prisms 5cm width/depth, and 7cm height.  
+At the top of the bin is a rigged rectangular handle across the entire width forming a 2 cm gap between the top of the bin and the handle. 
+The handle is centered in the depth of the bin. 
+The handle is 3 mm thick.  
+At the bottom of the bin is a forklift-style slots (e.g. shipping palette) with its open slots parallel to the gap of the handle. 
+There are two symmetric forklift slots 1 cm tall and at least 1.5 cm wide. 
+On the two sides that support the handle are a narrow textured strip (scallop ridges) for picking up/gripping the bin.   
+These strips are centered on the side of and runs vertically for 4 cm along the side of the bin and are ~3mm in width.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 2:
+------------------------------------------------------------------------------------------------------------------------------------------
+Of the three possible line forms given (solid, one-inch wide black line; one inch diameter dotted black line where the dots appear two 
+inches center-to center apart; series of solid black line segments of varying length), which will be utilized in the prototype test? 
+
+
+The PMR should be designed to accommodate all line types (solid, broken or ‘dotted’) track markings along any and all areas of the track, 
+as would be found in real-life use.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 3:
+------------------------------------------------------------------------------------------------------------------------------------------
+Do the bins holding the materials have open tops, or will the materials be covered by a lid that must be opened?
+
+
+The bins will be sealed. No need to open.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 4: 
+------------------------------------------------------------------------------------------------------------------------------------------
+What are the inner dimensions of the shipping container which will hold the PMR?
+
+
+A shipping container will be built to fit whatever size robot you design.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Question No 5:
+------------------------------------------------------------------------------------------------------------------------------------------
+Relative to the closed-loop path, what is the direction and distance of the location of the bins?
+
+
+This is a compound question, so only the first will be addressed. The PMR will always move clockwise around the closed-looped path. 
